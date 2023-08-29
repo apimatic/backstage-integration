@@ -1,0 +1,6 @@
+site_name: 'sdk-docs'
+
+nav:
+  - Home: index.md
+plugins:
+  - techdocs-core
