@@ -30,7 +30,7 @@ const informationData = [
   {
     title: 'Petstore SDKs',
     content:
-      'APIMatic\'s Petstore SDKs offer seamless integration for developers, streamlining the process of incorporating pet store functionalities into applications with ease and efficiency. With comprehensive API documentation and code generation, APIMatic empowers developers to effortlessly create robust and reliable pet store experiences.',
+      'APIMatic\'s Petstore SDKs offer seamless integration for developers, streamlining the process of incorporating pet store functionalities into applications with ease and efficiency. With comprehensive API documentation and code generation, APIMatic empowers developers to effortlessly create robust and experiences.',
     link: '/apimatic-widget',
   },
   {
